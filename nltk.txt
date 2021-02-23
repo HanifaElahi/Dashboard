@@ -1,0 +1,8 @@
+stopwords
+popular
+maxent_ne_chunker
+words
+punkt
+data
+wordnet
+averaged_perceptron_tagger

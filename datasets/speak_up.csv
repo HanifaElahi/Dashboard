@@ -1,0 +1,20 @@
+﻿Area,Goverate,Calcualate,Rate,Relative Stability,Stability Status ,Stability Grading,Cost of Living Status ,Cost of Living Grading,Confidence Status ,Confidence Grading,Happiness Status ,Happiness Grading
+A,A,1.5,2,30.0,unstable,D,Expensive,D,Un Confidence,D,un Happiness,D
+A1,A,1,1,20.0,Very unstable,E+,Very Expensive +,E+,Very Un Confidence +,E+,Very un Hppiness,E+
+A2,A,2,2,40.0,Unstable +,D+,Expensive +,D+,Un Confidence +,D+,Un Happiness +,D+
+B,B,3.5,4,70.0,stable,B,Cheap,B,Confidence,B,Happiness,B
+B1,B,3,3,60.0,Neutral +,C+,Neutral +,C+,Neutral +,C+,Neutral +,C+
+B2,B,4,4,80.0,Stable +,B+,Cheap +,B+,Confidence +,B+,Happiness +,B+
+C,C,4.5,5,90.0,Very stable,A,Very Cheap,A,Very Confidence,A,Very Happiness,A
+C1,C,5,5,100.0,Very stable +,A+,Very Cheap +,A+,Very Confidence +,A+,Very HAppiness +,A+
+C2,C,4,4,80.0,Stable +,B+,Cheap +,B+,Confidence +,B+,Happiness +,B+
+D,D,3.5,4,70.0,stable,B,Cheap,B,Confidence,B,Happiness,B
+D1,D,3,3,60.0,Neutral +,C+,Neutral +,C+,Neutral +,C+,Neutral +,C+
+D2,D,4,4,80.0,Stable +,B+,Cheap +,B+,Confidence +,B+,Happiness +,B+
+E,E,2.5,3,50.0,neutral,C,neutral,C,neutral,C,neutral,C
+E1,E,1,1,20.0,Very unstable,E+,Very Expensive +,E+,Very un Confidence,E+,Very Un Happiness,E+
+E2,E,4,4,80.0,Stable +,B+,Cheap +,B+,Confidence +,B+,Happiness +,B+
+F,F,3,3,60.0,Neutral +,C+,Neutral +,C+,Neutral +,C+,Neutral +,C+
+F1,F,1,1,20.0,Very unstable,E+,Very Expensive +,E+,Very Un Confidence +,E+,Very Un Happiness,E+
+F2,F,5,5,100.0,Very stable +,A+,Very Cheap +,A+,Very Confidence +,A+,Very Happiness +,A+
+Country Stability,Agregate Calculation,3.1,3,62.0,Neutral +,C+,Neutral +,C+,Neutral +,C+,Neutral +,C+
